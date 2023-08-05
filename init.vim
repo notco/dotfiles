@@ -49,7 +49,7 @@ Plug 'chrisbra/Colorizer'
 " parentheses
 Plug 'tpope/vim-surround'
 " vinegar
-" Plug 'tpop/vim-vinegar'
+Plug 'tpope/vim-vinegar'
 " sql
 " Plug 'has2k1/sql.vim', { 'for': 'sql' }
 Plug 'lifepillar/pgsql.vim', { 'for': 'sql' }
